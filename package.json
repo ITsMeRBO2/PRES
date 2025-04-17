@@ -10,7 +10,8 @@
   "scripts": {
     "test": "gulp test",
     "start": "gulp serve",
-    "build": "[my-framework] build --output public"
+    "build": "gulp build"
+
   },
   "author": {
     "name": "Hakim El Hattab",
